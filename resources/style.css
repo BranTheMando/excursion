@@ -1,25 +1,23 @@
 body {
 	background-color: black;
-}
-
-h1 {
+	text-align: center;
 	font-family: Verdana;
+	color: white;
 }
-
-#link {
+.link {
 	color: Aquamarine;
 	font-size: 16px;
 }
-
-video, img {
-	text-align: center;
+#title {
+	font-size: 50px;
+	font-weight: normal;
+	color: white;
 }
-
-#flavor {
-	21 px;
+.flavor {
+	font-size: 21 px;
 	color: gray;
 }
-
-
-
-
+#copyright {
+	text-align: right;
+	color: gray;
+}
